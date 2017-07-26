@@ -5,9 +5,9 @@
 	网络原因导致的npm问题，可以翻墙或者配置cnpm
 	将package.json(npm包安装配置，类似pom文件)
 	  bs-config.js(lite-server跨域配置文件)
-	 拷贝到carsmartData目录下
+	 拷贝到项目目录下
 	 npm install 安装js依赖文件
-	 carsmartData目录下npm run start或者lite-server命令启动lite-server服务
+	 项目目录下npm run start或者lite-server命令启动lite-server服务
 	 (如果项目存在jsp首页，需要调整bs-config.js文件)
 	 修改bs-config.js可调用不同服务器提供的服务
 	 lite-server默认index.html为首页
